@@ -492,6 +492,19 @@ color: #777;
 #contact .contact-item {
 	margin: 20px 0 40px 0;
 }
+#contact .btn-custom {
+	background-color: #136d15;
+	color: #fff;
+	border: 2px solid #136d15;
+	display: block;
+	margin: 30px auto;
+	padding: 15px 40px;
+	font-size: 18px;
+}
+#contact .btn-custom:hover {
+	background-color: #0d5010;
+	border-color: #0d5010;
+}
 /* Footer Section*/
 #footer {
 	background: #333;
